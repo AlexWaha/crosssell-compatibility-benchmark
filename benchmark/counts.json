@@ -1,0 +1,13 @@
+{
+  "total_products": 3000,
+  "anchors": 360,
+  "accessories": 959,
+  "noise": 1681,
+  "anchor_categories": 12,
+  "accessory_categories": 32,
+  "core_categories": 44,
+  "categories_kept": 506,
+  "ground_truth_pairs": 47670,
+  "images_copied": 3000,
+  "images_missing": 0
+}

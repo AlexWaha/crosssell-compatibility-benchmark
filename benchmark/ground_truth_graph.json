@@ -1,0 +1,274 @@
+{
+  "623": {
+    "anchor": "Mobile Phones",
+    "accessories": [
+      {
+        "id": 773,
+        "name": "Mobile Phone Cases"
+      },
+      {
+        "id": 497,
+        "name": "Chargers for Gadgets"
+      },
+      {
+        "id": 583,
+        "name": "Power banks"
+      },
+      {
+        "id": 1479,
+        "name": "Mobile Phone Headsets"
+      },
+      {
+        "id": 106,
+        "name": "Memory Cards"
+      }
+    ]
+  },
+  "246": {
+    "anchor": "Tablets",
+    "accessories": [
+      {
+        "id": 628,
+        "name": "Tablet Cases"
+      },
+      {
+        "id": 497,
+        "name": "Chargers for Gadgets"
+      },
+      {
+        "id": 583,
+        "name": "Power banks"
+      },
+      {
+        "id": 1479,
+        "name": "Mobile Phone Headsets"
+      },
+      {
+        "id": 106,
+        "name": "Memory Cards"
+      }
+    ]
+  },
+  "1730": {
+    "anchor": "Digital Cameras",
+    "accessories": [
+      {
+        "id": 1620,
+        "name": "Camera Lenses"
+      },
+      {
+        "id": 1251,
+        "name": "Lens Filters"
+      },
+      {
+        "id": 783,
+        "name": "Tripods"
+      },
+      {
+        "id": 140,
+        "name": "Camera Bags"
+      },
+      {
+        "id": 1727,
+        "name": "Camera Batteries"
+      },
+      {
+        "id": 106,
+        "name": "Memory Cards"
+      },
+      {
+        "id": 650,
+        "name": "Flashes and On-Camera Light"
+      }
+    ]
+  },
+  "1390": {
+    "anchor": "Camcorders",
+    "accessories": [
+      {
+        "id": 783,
+        "name": "Tripods"
+      },
+      {
+        "id": 140,
+        "name": "Camera Bags"
+      },
+      {
+        "id": 1727,
+        "name": "Camera Batteries"
+      },
+      {
+        "id": 106,
+        "name": "Memory Cards"
+      }
+    ]
+  },
+  "373": {
+    "anchor": "Action Cameras",
+    "accessories": [
+      {
+        "id": 783,
+        "name": "Tripods"
+      },
+      {
+        "id": 140,
+        "name": "Camera Bags"
+      },
+      {
+        "id": 106,
+        "name": "Memory Cards"
+      }
+    ]
+  },
+  "152": {
+    "anchor": "Laptops",
+    "accessories": [
+      {
+        "id": 23,
+        "name": "Laptop Bags"
+      },
+      {
+        "id": 49,
+        "name": "Mice"
+      },
+      {
+        "id": 31,
+        "name": "Keyboards"
+      },
+      {
+        "id": 29,
+        "name": "Mouse Pads"
+      },
+      {
+        "id": 98,
+        "name": "RAM"
+      },
+      {
+        "id": 104,
+        "name": "SSD"
+      },
+      {
+        "id": 106,
+        "name": "Memory Cards"
+      }
+    ]
+  },
+  "15": {
+    "anchor": "Desktop PCs",
+    "accessories": [
+      {
+        "id": 49,
+        "name": "Mice"
+      },
+      {
+        "id": 31,
+        "name": "Keyboards"
+      },
+      {
+        "id": 29,
+        "name": "Mouse Pads"
+      },
+      {
+        "id": 98,
+        "name": "RAM"
+      },
+      {
+        "id": 104,
+        "name": "SSD"
+      },
+      {
+        "id": 832,
+        "name": "Graphics Cards"
+      },
+      {
+        "id": 830,
+        "name": "Motherboards"
+      }
+    ]
+  },
+  "161": {
+    "anchor": "Monitors",
+    "accessories": [
+      {
+        "id": 49,
+        "name": "Mice"
+      },
+      {
+        "id": 31,
+        "name": "Keyboards"
+      },
+      {
+        "id": 29,
+        "name": "Mouse Pads"
+      }
+    ]
+  },
+  "749": {
+    "anchor": "Bikes",
+    "accessories": [
+      {
+        "id": 942,
+        "name": "Bike Lights"
+      },
+      {
+        "id": 834,
+        "name": "Cycle Computers"
+      },
+      {
+        "id": 150,
+        "name": "Bike Bags & Bottle Cages"
+      },
+      {
+        "id": 134,
+        "name": "Bike Locks"
+      },
+      {
+        "id": 944,
+        "name": "Bike Tyres"
+      },
+      {
+        "id": 1261,
+        "name": "Water Bottles"
+      }
+    ]
+  },
+  "258": {
+    "anchor": "Drills & Screwdrivers",
+    "accessories": [
+      {
+        "id": 2293,
+        "name": "Bits & Sockets Sets"
+      },
+      {
+        "id": 456,
+        "name": "Tool Kits"
+      },
+      {
+        "id": 3517,
+        "name": "Tool boxes"
+      }
+    ]
+  },
+  "2176": {
+    "anchor": "Welders",
+    "accessories": [
+      {
+        "id": 643,
+        "name": "Welding Helmets"
+      }
+    ]
+  },
+  "882": {
+    "anchor": "Electric Motorbikes & Vehicles",
+    "accessories": [
+      {
+        "id": 166,
+        "name": "Motorcycle Helmets"
+      },
+      {
+        "id": 976,
+        "name": "Motorcycle Tyres"
+      }
+    ]
+  }
+}

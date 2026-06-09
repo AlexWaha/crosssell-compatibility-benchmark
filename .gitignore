@@ -1,0 +1,56 @@
+# Secrets - NEVER commit
+.env
+*.env
+!.env.example
+
+# Runtime data volumes (large, host-side)
+data/
+
+# Dataset: keep source JSON + builder; exclude heavy/derived data
+project/dataset/images/
+project/dataset/typesense/
+project/dataset/sql/
+project/dataset/json_full_backup_15k/
+benchmark/images/
+*.sql
+
+# Internal working notes / run dumps / fixtures (not part of the artifact)
+project/docs/runs/
+project/docs/migration-fixtures/
+project/docs/experiments/
+project/docs/agent-exchange/
+project/docs/article2/
+project/docs/chat-summary.md
+project/docs/prompts/
+
+# AI dev-orchestration scaffolding (not part of the benchmark)
+.claude/
+CLAUDE.md
+
+# Archived / legacy
+_legacy_pre_alignment/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+**/.ruff_cache/
+
+# Windows stray null files
+nul
+NUL
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Screenshots / scratch at repo root (curated copies live in docs/assets)
+.playwright-mcp/
+avtc-*.png
+
+# Dataset bundle is tracked via Git LFS (see .gitattributes), not ignored
+
+# Manuscript PDF - not public until journal publication
+docs/paper/

@@ -1,0 +1,2711 @@
+{
+ "3D Pens": [
+  "3D Printing Materials"
+ ],
+ "3D Printers": [
+  "3D Printing Materials",
+  "UPS",
+  "Surge Protectors & Extension Leads"
+ ],
+ "3D Printing Materials": [
+  "3D Printers",
+  "3D Pens"
+ ],
+ "3D Puzzles": [],
+ "Acoustic Guitars": [
+  "Strings",
+  "Holders & Stands",
+  "Microphones",
+  "Audio Interfaces",
+  "Guitar Amps & Cabs"
+ ],
+ "Action Cameras": [
+  "Memory Cards",
+  "Camera Bags",
+  "Tripods",
+  "Selfie Sticks",
+  "Power banks",
+  "Camera Batteries",
+  "Lens Filters",
+  "Flashes and On-Camera Light"
+ ],
+ "Air Compressors": [
+  "Spray Guns",
+  "Staple Guns & Nailers",
+  "Inflatable Mattresses",
+  "Inflatable Boats",
+  "Inflatable Pools"
+ ],
+ "Air Conditioners": [
+  "Surge Protectors & Extension Leads",
+  "Smart Plugs",
+  "AVR",
+  "Voltage Monitoring Relays"
+ ],
+ "Air Coolers (All-in-One)": [
+  "Computer Cases",
+  "Computer Cooling",
+  "Thermal Pastes & Thermal Pads",
+  "CPUs"
+ ],
+ "Air Pistols": [
+  "Ammunition",
+  "Shooting Earmuffs and Earplugs",
+  "Sights"
+ ],
+ "Air Purifiers": [
+  "Smart Plugs",
+  "Surge Protectors & Extension Leads",
+  "Humidifiers"
+ ],
+ "Air Rifles": [
+  "Ammunition",
+  "Shooting Earmuffs and Earplugs",
+  "Sights"
+ ],
+ "Alarm Horns & Sirens": [
+  "Security Systems & Smart Hubs",
+  "Security Sensors"
+ ],
+ "All-in-One Printers": [
+  "Ink & Toner Cartridges",
+  "USB Flash Drives",
+  "Surge Protectors & Extension Leads",
+  "UPS",
+  "Card Readers & USB Hubs",
+  "Laminators",
+  "Shredders"
+ ],
+ "Amino Acids": [
+  "Proteins",
+  "Creatine",
+  "Fat Burners",
+  "Weight Gainers"
+ ],
+ "Ammunition": [
+  "Shooting Earmuffs and Earplugs",
+  "Sights"
+ ],
+ "Amplifiers": [
+  "Speakers",
+  "Subwoofers",
+  "DACs",
+  "Phono Stages",
+  "Turntables",
+  "Hi-Fi Racks & Mounts"
+ ],
+ "Antennas for Routers": [
+  "Routers & Firewalls",
+  "LTE/5G Modems",
+  "Wi-Fi Equipment",
+  "Powerline Adapters"
+ ],
+ "Antifreezes & Coolants": [],
+ "Aquarium Air Pumps": [
+  "Aquariums",
+  "Aquarium Filters"
+ ],
+ "Aquarium Filters": [
+  "Aquariums",
+  "Aquarium Air Pumps"
+ ],
+ "Aquariums": [
+  "Aquarium Filters",
+  "Aquarium Air Pumps"
+ ],
+ "ATV Tyres": [
+  "Wheels",
+  "Air Compressors",
+  "Car Pumps & Compressors"
+ ],
+ "Audio Interfaces": [
+  "Microphones",
+  "Headphones",
+  "MIDI Keyboards",
+  "Speakers"
+ ],
+ "Audio Systems": [
+  "Speakers",
+  "Subwoofers",
+  "TVs",
+  "TV Mounts & Stands",
+  "Media Players & Set-Top Boxes"
+ ],
+ "AV Receivers": [
+  "Speakers",
+  "Subwoofers",
+  "TVs",
+  "TV Mounts & Stands",
+  "Media Players & Set-Top Boxes",
+  "Hi-Fi Racks & Mounts"
+ ],
+ "AVR": [
+  "Generators",
+  "UPS",
+  "Inverters & Controllers",
+  "Voltage Monitoring Relays",
+  "Surge Protectors & Extension Leads",
+  "Batteries for inverters & UPS"
+ ],
+ "Axes": [
+  "Knife Sharpeners",
+  "Log Splitters",
+  "Wheelbarrows & Trolleys"
+ ],
+ "Baby Bottles & Sippy Cups": [
+  "Sterilizers & Heaters",
+  "Bottle Teats & Pacifiers",
+  "Baby Food",
+  "Thermoses",
+  "Food Containers"
+ ],
+ "Baby Carriers": [
+  "Nappies",
+  "Baby Bottles & Sippy Cups"
+ ],
+ "Baby Food": [
+  "Baby Bottles & Sippy Cups",
+  "Food Containers",
+  "Sterilizers & Heaters"
+ ],
+ "Baby Mobiles": [
+  "Cots",
+  "Batteries",
+  "Baby Monitors"
+ ],
+ "Baby Monitors": [
+  "Batteries",
+  "Wi-Fi Equipment",
+  "Smart Plugs"
+ ],
+ "Baby Swings & Chair Bouncers": [
+  "Batteries",
+  "Baby Monitors"
+ ],
+ "Baby Walkers": [
+  "Batteries",
+  "Baby Monitors"
+ ],
+ "Backpacks": [
+  "Water Bottles",
+  "Umbrellas",
+  "Power banks"
+ ],
+ "Bath Tap Sets": [
+  "Bathtubs",
+  "Bathroom Sinks",
+  "Shower Systems"
+ ],
+ "Bathroom Sinks": [
+  "Taps",
+  "Washbasin cabinet",
+  "Bath Tap Sets"
+ ],
+ "Bathtubs": [
+  "Bath Tap Sets",
+  "Shower Screens & Walls"
+ ],
+ "Batteries": [
+  "Battery Chargers",
+  "Flashlights"
+ ],
+ "Batteries for inverters & UPS": [
+  "UPS",
+  "Inverters & Controllers",
+  "Solar Panels",
+  "Battery Chargers"
+ ],
+ "Battery Chargers": [
+  "Batteries",
+  "Batteries for inverters & UPS"
+ ],
+ "BBQ & Grills": [
+  "Gas Canisters & Fuel",
+  "Outdoor Furniture"
+ ],
+ "Bench Drills": [
+  "Bits & Sockets Sets",
+  "Vises & Clamps"
+ ],
+ "Bench Grinders & Polishers": [
+  "Vises & Clamps"
+ ],
+ "Bidets": [
+  "Toilets",
+  "Concealed Frames & Cisterns",
+  "Taps"
+ ],
+ "Bike Bags & Bottle Cages": [
+  "Bikes",
+  "Water Bottles",
+  "Bike Lights",
+  "Bike Locks",
+  "Cycle Computers",
+  "Kids Bike Seats"
+ ],
+ "Bike Lights": [
+  "Bikes",
+  "Batteries",
+  "Chargers for Gadgets",
+  "Bike Bags & Bottle Cages",
+  "Bike Locks",
+  "Cycle Computers"
+ ],
+ "Bike Locks": [
+  "Bikes",
+  "Bike Lights",
+  "Bike Bags & Bottle Cages"
+ ],
+ "Bike Tyres": [
+  "Bikes"
+ ],
+ "Bikes": [
+  "Bike Lights",
+  "Bike Locks",
+  "Bike Bags & Bottle Cages",
+  "Cycle Computers",
+  "Kids Bike Seats",
+  "Bike Tyres"
+ ],
+ "Binoculars & Monoculars": [
+  "Tripods",
+  "Flashlights",
+  "Laser Rangefinders"
+ ],
+ "Bio Fireplaces": [
+  "Outdoor Furniture"
+ ],
+ "Bits & Sockets Sets": [
+  "Drills & Screwdrivers",
+  "Bench Drills",
+  "Rotary Hammers",
+  "Power Tool Combo Kits"
+ ],
+ "Blood Glucose Monitors": [
+  "Batteries"
+ ],
+ "Blood Pressure Monitors": [
+  "Batteries"
+ ],
+ "Boat Motors": [
+  "Inflatable Boats",
+  "Gas Canisters & Fuel",
+  "Fish Finders"
+ ],
+ "Boilers": [
+  "Hot Water Storage Tanks",
+  "Circulation Pumps",
+  "Thermostats",
+  "Radiators",
+  "Heated Towel Rails"
+ ],
+ "Boot Dryers": [],
+ "Bottle Teats & Pacifiers": [
+  "Baby Bottles & Sippy Cups",
+  "Sterilizers & Heaters",
+  "Breast Pumps",
+  "Baby Food"
+ ],
+ "Breadmakers": [
+  "Kitchen Knives",
+  "Food Containers"
+ ],
+ "Breast Pumps": [
+  "Baby Bottles & Sippy Cups",
+  "Bottle Teats & Pacifiers",
+  "Sterilizers & Heaters"
+ ],
+ "Breathalyzers": [
+  "Batteries",
+  "Chargers for Gadgets"
+ ],
+ "Built-In Coffee Makers": [
+  "Coffee Grinders",
+  "Water Filters",
+  "Water Filter Cartridges"
+ ],
+ "Built-In Microwave Ovens": [],
+ "Camcorders": [
+  "Camera Bags",
+  "Camera Batteries",
+  "Tripods",
+  "Memory Cards",
+  "Flashes and On-Camera Light",
+  "Microphones",
+  "Lens Filters"
+ ],
+ "Camera Bags": [
+  "Digital Cameras",
+  "Camcorders",
+  "Instant Cameras",
+  "Action Cameras",
+  "Camera Lenses"
+ ],
+ "Camera Batteries": [
+  "Digital Cameras",
+  "Camcorders",
+  "Action Cameras",
+  "Instant Cameras",
+  "Battery Chargers"
+ ],
+ "Camera Lenses": [
+  "Digital Cameras",
+  "Camera Bags",
+  "Tripods",
+  "Lens Filters"
+ ],
+ "Camping Mats": [
+  "Tents",
+  "Sleeping Bags",
+  "Inflatable Mattresses",
+  "Hammocks",
+  "Camping Stoves",
+  "Cooler Bags",
+  "Backpacks"
+ ],
+ "Camping Stoves": [
+  "Gas Canisters & Fuel",
+  "Pans",
+  "Picnic Sets",
+  "Cooler Bags",
+  "Water Bottles"
+ ],
+ "Canopy Swings": [
+  "Outdoor Furniture",
+  "Hammocks"
+ ],
+ "Car & Train Tracks": [
+  "Construction Toys",
+  "Model Building Kits",
+  "Batteries"
+ ],
+ "Car Alarms": [
+  "Car Batteries"
+ ],
+ "Car Amplifiers": [
+  "Car Speakers",
+  "Car Subwoofers",
+  "Car Stereos"
+ ],
+ "Car Batteries": [
+  "Chargers & Jump Starters",
+  "Car Inverters",
+  "Battery Chargers"
+ ],
+ "Car Bulbs": [],
+ "Car Coolers & Fridges": [
+  "Car Inverters",
+  "Car Batteries"
+ ],
+ "Car Inverters": [
+  "Car Batteries",
+  "Chargers & Jump Starters",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Car Jacks": [
+  "Tyres",
+  "Wheels",
+  "Car Pumps & Compressors"
+ ],
+ "Car Monitors": [
+  "Reversing Cameras",
+  "Parking Sensors",
+  "Dashcams"
+ ],
+ "Car Pumps & Compressors": [
+  "Tyres",
+  "Bike Tyres",
+  "Truck Tyres",
+  "ATV Tyres"
+ ],
+ "Car Seats": [
+  "Seat Heaters"
+ ],
+ "Car Speakers": [
+  "Car Amplifiers",
+  "Car Stereos",
+  "Car Subwoofers"
+ ],
+ "Car Stereos": [
+  "Car Speakers",
+  "Car Amplifiers",
+  "Car Subwoofers"
+ ],
+ "Car Subwoofers": [
+  "Car Amplifiers",
+  "Car Stereos",
+  "Car Speakers"
+ ],
+ "Card Readers & USB Hubs": [
+  "Laptops",
+  "Desktop PCs",
+  "Memory Cards",
+  "USB Flash Drives",
+  "Hard Drives",
+  "Tablets"
+ ],
+ "Cat Food": [
+  "Feeders & Bowls"
+ ],
+ "Caulk Guns": [],
+ "CD Players": [
+  "Amplifiers",
+  "Speakers",
+  "Headphones",
+  "AV Receivers",
+  "DACs",
+  "Hi-Fi Racks & Mounts"
+ ],
+ "Cement Mixers": [
+  "Wheelbarrows & Trolleys",
+  "Shovels"
+ ],
+ "Chairs": [
+  "Office Desks",
+  "Desk Lamps"
+ ],
+ "Changing Tables": [
+  "Nappies",
+  "Cots",
+  "Baby Monitors"
+ ],
+ "Chargers & Jump Starters": [
+  "Car Batteries",
+  "Batteries"
+ ],
+ "Chargers for Gadgets": [
+  "Mobile Phones",
+  "Tablets",
+  "E-Readers",
+  "Smartwatches & Trackers",
+  "Power banks"
+ ],
+ "Circulation Pumps": [
+  "Boilers",
+  "Radiators",
+  "Thermostats",
+  "Hot Water Storage Tanks"
+ ],
+ "Cleaning Machines": [],
+ "Clinical Thermometers": [
+  "Medical Masks & Respirators",
+  "Nebulisers"
+ ],
+ "Clothes Steamers": [
+  "Ironing Boards",
+  "Lint Removers",
+  "Drying Racks"
+ ],
+ "Coating Thickness Gauges": [
+  "Batteries"
+ ],
+ "Coffee Grinders": [
+  "Coffee Makers & Coffee Machines",
+  "Thermoses"
+ ],
+ "Coffee Makers & Coffee Machines": [
+  "Coffee Grinders",
+  "Thermoses",
+  "Water Filters",
+  "Water Filter Cartridges"
+ ],
+ "Computer Cases": [
+  "PSUs",
+  "Motherboards",
+  "Computer Cooling",
+  "SSD",
+  "Hard Drives",
+  "Graphics Cards",
+  "RAM"
+ ],
+ "Computer Chairs": [
+  "Office Desks",
+  "Desk Lamps"
+ ],
+ "Computer Cooling": [
+  "Thermal Pastes & Thermal Pads",
+  "Computer Cases",
+  "CPUs"
+ ],
+ "Concealed Frames & Cisterns": [
+  "Toilets",
+  "Bidets"
+ ],
+ "Construction Toys": [],
+ "Convector Heaters": [
+  "Thermostats",
+  "Surge Protectors & Extension Leads",
+  "Humidifiers"
+ ],
+ "Cooker Hoods": [
+  "Cookers",
+  "Hobs"
+ ],
+ "Cookers": [
+  "Cooker Hoods",
+  "Pans",
+  "Stockpots"
+ ],
+ "Cooler Bags": [
+  "Picnic Sets",
+  "Water Bottles"
+ ],
+ "Copiers": [
+  "Ink & Toner Cartridges",
+  "UPS",
+  "Laminators"
+ ],
+ "Corded Phones": [
+  "Surge Protectors & Extension Leads"
+ ],
+ "Cordless Phones": [
+  "Batteries",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Cots": [
+  "Baby Monitors",
+  "Baby Mobiles",
+  "Mattresses"
+ ],
+ "Counterfeit Detectors": [
+  "Money Counting Machines"
+ ],
+ "CPUs": [
+  "Motherboards",
+  "RAM",
+  "Thermal Pastes & Thermal Pads",
+  "Computer Cooling",
+  "Computer Cases",
+  "PSUs"
+ ],
+ "Creatine": [
+  "Proteins",
+  "Amino Acids",
+  "Weight Gainers",
+  "Fat Burners"
+ ],
+ "Cross Trainers": [
+  "Heart Rate Monitors & Pedometers",
+  "Exercise & Medicine Balls",
+  "Water Bottles"
+ ],
+ "Cycle Computers": [
+  "Bike Lights",
+  "Bike Bags & Bottle Cages",
+  "Heart Rate Monitors & Pedometers"
+ ],
+ "DACs": [
+  "Headphones",
+  "Headphone Amplifiers",
+  "Amplifiers",
+  "Speakers"
+ ],
+ "Dashcams": [
+  "Memory Cards",
+  "Chargers for Gadgets"
+ ],
+ "Deep Well Pumps": [
+  "Water Pressure Tanks",
+  "Pressure Tank Units",
+  "Water Filters",
+  "Water Metres",
+  "Water Leak Detectors"
+ ],
+ "Dehumidifiers": [
+  "Thermometers & Barometers",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Demolition Hammers": [
+  "Bits & Sockets Sets",
+  "Tool boxes",
+  "Surge Protectors & Extension Leads",
+  "Generators"
+ ],
+ "Desk Lamps": [
+  "Light Bulbs",
+  "Smart Plugs",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Desktop PCs": [
+  "Monitors",
+  "Keyboards",
+  "Mice",
+  "Mouse Pads",
+  "PC Speakers",
+  "Headphones",
+  "Webcams",
+  "Microphones",
+  "Game Controllers",
+  "UPS",
+  "Surge Protectors & Extension Leads",
+  "Wi-Fi Equipment",
+  "Routers & Firewalls",
+  "Printers",
+  "Card Readers & USB Hubs",
+  "Hard Drives",
+  "SSD"
+ ],
+ "Digital Cameras": [
+  "Camera Lenses",
+  "Camera Bags",
+  "Memory Cards",
+  "Tripods",
+  "Flashes and On-Camera Light",
+  "Lens Filters",
+  "Camera Batteries",
+  "Steadicams (Hand Stabilisers)"
+ ],
+ "Digital Pianos": [
+  "Headphones",
+  "Holders & Stands",
+  "Speakers",
+  "Amplifiers",
+  "Audio Interfaces"
+ ],
+ "Dishwashers": [
+  "Water Leak Detectors",
+  "Garbage Disposals",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Document Cameras": [
+  "Projectors",
+  "Projector Screens",
+  "Projector Mounts",
+  "Monitors"
+ ],
+ "Dog Food": [
+  "Feeders & Bowls"
+ ],
+ "Dolls": [
+  "Batteries"
+ ],
+ "Drills & Screwdrivers": [
+  "Bits & Sockets Sets",
+  "Tool boxes",
+  "Vises & Clamps",
+  "Batteries",
+  "Battery Chargers",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Drive Cases & Docks": [
+  "Hard Drives",
+  "SSD"
+ ],
+ "Drones": [
+  "Remote controls for drones and RC models",
+  "Batteries",
+  "Chargers for Gadgets",
+  "Memory Cards",
+  "VR Headsets",
+  "Power banks",
+  "Portable Power Stations"
+ ],
+ "Dry Toilets": [
+  "Extractor Fans"
+ ],
+ "Drying Racks": [
+  "Irons",
+  "Ironing Boards",
+  "Clothes Steamers"
+ ],
+ "DVD & Blu-ray Players": [
+  "TVs",
+  "AV Receivers",
+  "Home Cinema Systems",
+  "Speakers",
+  "Projectors",
+  "Projector Screens"
+ ],
+ "DVR & NVR Recorders": [
+  "Surveillance Cameras",
+  "Hard Drives",
+  "Security Systems & Smart Hubs",
+  "Monitors",
+  "UPS",
+  "Surge Protectors & Extension Leads"
+ ],
+ "E-Readers": [
+  "E-Readers Cases",
+  "Chargers for Gadgets",
+  "Memory Cards",
+  "Power banks"
+ ],
+ "E-Readers Cases": [
+  "E-Readers"
+ ],
+ "Earth Augers": [
+  "Gas Canisters & Fuel",
+  "Shovels"
+ ],
+ "Electric & Bass Guitars": [
+  "Guitar Amps & Cabs",
+  "Strings",
+  "Holders & Stands",
+  "Headphones"
+ ],
+ "Electric Blankets & Heating Pads": [
+  "Surge Protectors & Extension Leads",
+  "Smart Plugs"
+ ],
+ "Electric Fireplaces": [
+  "Surge Protectors & Extension Leads",
+  "Smart Plugs",
+  "Thermostats"
+ ],
+ "Electric Grills for the Kitchen": [
+  "Surge Protectors & Extension Leads"
+ ],
+ "Electric Jigsaws": [
+  "Tool boxes",
+  "Vises & Clamps",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Electric Kettles": [
+  "Water Filters",
+  "Water Filter Cartridges",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Electric Locks": [
+  "Intercoms",
+  "Security Systems & Smart Hubs",
+  "Batteries"
+ ],
+ "Electric Motorbikes & Vehicles": [
+  "Motorcycle Helmets",
+  "Bike Locks",
+  "Bike Lights"
+ ],
+ "Electric Planers": [
+  "Tool boxes",
+  "Vises & Clamps",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Electric Scooters": [
+  "Motorcycle Helmets",
+  "Bike Locks",
+  "Bike Lights"
+ ],
+ "Electric Slicers": [
+  "Food Containers",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Electric Toothbrushes": [
+  "Toothbrush Heads",
+  "Chargers for Gadgets"
+ ],
+ "Engine Oils": [
+  "Gear Oils",
+  "Antifreezes & Coolants"
+ ],
+ "Engines": [
+  "Engine Oils",
+  "Gear Oils"
+ ],
+ "Exercise & Medicine Balls": [
+  "Heart Rate Monitors & Pedometers",
+  "Massagers",
+  "Wall Bars (Swedish Ladders)",
+  "Pull-Up Bars & Parallel Bars"
+ ],
+ "Exercise Bikes": [
+  "Heart Rate Monitors & Pedometers",
+  "Smartwatches & Trackers",
+  "Water Bottles",
+  "Massagers"
+ ],
+ "Extractor Fans": [
+  "Switches",
+  "Smart Plugs",
+  "Thermostats"
+ ],
+ "Facial Care Devices": [],
+ "Fan Heaters": [
+  "Thermostats",
+  "Smart Plugs",
+  "Surge Protectors & Extension Leads",
+  "Thermometers & Barometers"
+ ],
+ "Fans": [
+  "Smart Plugs",
+  "Surge Protectors & Extension Leads",
+  "Thermometers & Barometers"
+ ],
+ "Fat Burners": [
+  "Scales",
+  "Heart Rate Monitors & Pedometers",
+  "Treadmills",
+  "Exercise Bikes",
+  "Rowing Machines",
+  "Cross Trainers",
+  "Vibration Trainers",
+  "Weight Benches & Racks",
+  "Pull-Up Bars & Parallel Bars",
+  "Strength Training Machines",
+  "Water Bottles"
+ ],
+ "Feeders & Bowls": [
+  "Cat Food",
+  "Dog Food"
+ ],
+ "Fish Finders": [
+  "Inflatable Boats",
+  "Boat Motors",
+  "Power banks",
+  "Chargers for Gadgets"
+ ],
+ "Flashes and On-Camera Light": [
+  "Digital Cameras",
+  "Camera Bags",
+  "Camera Batteries",
+  "Tripods",
+  "Memory Cards",
+  "Lens Filters"
+ ],
+ "Flashlights": [
+  "Batteries",
+  "Battery Chargers",
+  "Power banks",
+  "Chargers for Gadgets"
+ ],
+ "Flobert Guns & Starting Pistols": [
+  "Ammunition",
+  "Shooting Earmuffs and Earplugs",
+  "Sights"
+ ],
+ "Floodlights and Street Lights": [
+  "Surge Protectors & Extension Leads",
+  "Smart Plugs",
+  "Holders & Stands",
+  "Light Bulbs"
+ ],
+ "FM Transmitters": [
+  "USB Flash Drives",
+  "Chargers for Gadgets"
+ ],
+ "Food Containers": [
+  "Cooler Bags",
+  "Water Bottles"
+ ],
+ "Food Dehydrators": [
+  "Food Containers",
+  "Vacuum Sealers",
+  "Kitchen Knives"
+ ],
+ "Food Processors": [
+  "Food Containers",
+  "Utensil Sets",
+  "Kitchen Knives",
+  "Knife Sharpeners"
+ ],
+ "Food Steamers & Egg Boilers": [
+  "Food Containers",
+  "Utensil Sets"
+ ],
+ "Foot Baths": [],
+ "Frame Pools": [
+  "Submersible (Drainage) Pumps",
+  "Surface Pumps",
+  "Water Pumps with Engine"
+ ],
+ "Freezers": [
+  "Thermometers & Barometers",
+  "Generators"
+ ],
+ "Fridges": [
+  "Water Filter Cartridges",
+  "Thermometers & Barometers",
+  "Generators"
+ ],
+ "Game Controllers": [
+  "Gaming Consoles",
+  "Games",
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "Games": [
+  "Gaming Consoles",
+  "Game Controllers"
+ ],
+ "Gaming Consoles": [
+  "Game Controllers",
+  "Games",
+  "TVs",
+  "Hard Drives",
+  "SSD",
+  "Surge Protectors & Extension Leads",
+  "Headphones"
+ ],
+ "Garbage Disposals": [
+  "Kitchen Sinks",
+  "Household Switches",
+  "Taps"
+ ],
+ "Garden Shears": [
+  "Knife Sharpeners",
+  "Ladders & Step Stool"
+ ],
+ "Garden Shredders": [
+  "Surge Protectors & Extension Leads",
+  "Wheelbarrows & Trolleys"
+ ],
+ "Garden Sprayers": [],
+ "Garden Sprinklers": [
+  "Surface Pumps",
+  "Pressure Tank Units",
+  "Water Pumps with Engine"
+ ],
+ "Gas Canisters & Fuel": [
+  "Gas heaters",
+  "Gas Torches",
+  "Camping Stoves",
+  "BBQ & Grills"
+ ],
+ "Gas heaters": [
+  "Gas Canisters & Fuel",
+  "Thermostats"
+ ],
+ "Gas Torches": [
+  "Gas Canisters & Fuel",
+  "Soldering Tools"
+ ],
+ "Gear Oils": [
+  "Engines",
+  "Two-wheel tractors & Cultivators"
+ ],
+ "Generators": [
+  "Surge Protectors & Extension Leads",
+  "Voltage Monitoring Relays"
+ ],
+ "Glue Guns": [
+  "Surge Protectors & Extension Leads"
+ ],
+ "GPS Trackers": [
+  "Power banks",
+  "Chargers for Gadgets",
+  "Memory Cards"
+ ],
+ "Graphics Cards": [
+  "PSUs",
+  "Monitors",
+  "Motherboards",
+  "CPUs",
+  "RAM",
+  "SSD",
+  "Computer Cases",
+  "Computer Cooling"
+ ],
+ "Graphics Tablets": [
+  "Stylus Pens",
+  "Laptops",
+  "Notebooks",
+  "Monitors"
+ ],
+ "Grinders & Polishers": [
+  "Surge Protectors & Extension Leads",
+  "Vises & Clamps"
+ ],
+ "Guitar Amps & Cabs": [
+  "Electric & Bass Guitars",
+  "Strings",
+  "Microphones"
+ ],
+ "Hair Clippers": [
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "Hair Dryers & Styling Tools": [
+  "Surge Protectors & Extension Leads",
+  "Smart Plugs"
+ ],
+ "Hair Removal": [],
+ "Hammers": [
+  "Tool boxes",
+  "Tool Kits",
+  "Spirit Levels & Angle Measurers",
+  "Vises & Clamps"
+ ],
+ "Hammocks": [
+  "Holders & Stands",
+  "Outdoor Furniture"
+ ],
+ "Hard Drives": [
+  "Drive Cases & Docks",
+  "NAS Servers",
+  "PCI Controller Cards",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Headphone Amplifiers": [
+  "Headphones",
+  "DACs",
+  "Hi-Fi Racks & Mounts"
+ ],
+ "Headphones": [
+  "Headphone Amplifiers",
+  "DACs",
+  "MP3 Players",
+  "Audio Interfaces"
+ ],
+ "Heart Rate Monitors & Pedometers": [
+  "Scales",
+  "Exercise Bikes",
+  "Treadmills",
+  "Rowing Machines",
+  "Cross Trainers",
+  "Weight Benches & Racks",
+  "Pull-Up Bars & Parallel Bars",
+  "Blood Pressure Monitors"
+ ],
+ "Heat Guns": [
+  "Glue Guns",
+  "Soldering Tools",
+  "Paint Sprayers"
+ ],
+ "Heat Pumps": [
+  "Hot Water Storage Tanks",
+  "Thermostats",
+  "Radiators",
+  "Circulation Pumps",
+  "Heated Towel Rails"
+ ],
+ "Heated Towel Rails": [
+  "Thermostats",
+  "Radiators",
+  "Hot Water Storage Tanks"
+ ],
+ "Hedge Trimmers": [
+  "Batteries",
+  "Battery Chargers",
+  "Ladders & Step Stool",
+  "Garden Shredders"
+ ],
+ "Hi-Fi Racks & Mounts": [
+  "Hi-Fi Receivers",
+  "Amplifiers",
+  "CD Players",
+  "Turntables",
+  "Speakers",
+  "Subwoofers",
+  "Phono Stages",
+  "DACs"
+ ],
+ "Hi-Fi Receivers": [
+  "Speakers",
+  "Subwoofers",
+  "Hi-Fi Racks & Mounts",
+  "Turntables",
+  "CD Players",
+  "Phono Stages",
+  "TVs"
+ ],
+ "Highchairs": [
+  "Baby Bottles & Sippy Cups",
+  "Baby Food",
+  "Sterilizers & Heaters",
+  "Bottle Teats & Pacifiers"
+ ],
+ "Hobs": [
+  "Cooker Hoods",
+  "Ovens",
+  "Pans",
+  "Stockpots"
+ ],
+ "Hoists & Winches": [
+  "Wheelbarrows & Trolleys"
+ ],
+ "Holders & Stands": [
+  "Mobile Phones",
+  "Tablets",
+  "E-Readers",
+  "Digital Cameras",
+  "Action Cameras",
+  "Projectors",
+  "Microphones",
+  "Headphones",
+  "Sat Navs",
+  "Dashcams",
+  "Laptops"
+ ],
+ "Home Cinema Systems": [
+  "TVs",
+  "Projectors",
+  "Projector Screens",
+  "TV Mounts & Stands",
+  "Projector Mounts",
+  "Media Players & Set-Top Boxes"
+ ],
+ "Hot Water Storage Tanks": [
+  "Heat Pumps",
+  "Boilers",
+  "Circulation Pumps",
+  "Thermostats"
+ ],
+ "Household Switches": [
+  "Sockets",
+  "Socket & Switch Plates",
+  "Smart Plugs"
+ ],
+ "Hoverboards & E-Unicycles": [
+  "Chargers for Gadgets",
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "Humidifiers": [
+  "Thermometers & Barometers",
+  "Water Filters",
+  "Water Filter Cartridges"
+ ],
+ "Ice Skates": [
+  "Travel Bags"
+ ],
+ "Industrial Space Heaters": [
+  "Gas Canisters & Fuel",
+  "Thermostats",
+  "Generators",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Inflatable Boats": [
+  "Air Compressors",
+  "Boat Motors",
+  "Fish Finders",
+  "Cooler Bags"
+ ],
+ "Inflatable Furniture": [
+  "Air Compressors",
+  "Car Pumps & Compressors"
+ ],
+ "Inflatable Mattresses": [
+  "Air Compressors",
+  "Car Pumps & Compressors",
+  "Sleeping Bags",
+  "Tents"
+ ],
+ "Inflatable Pools": [
+  "Air Compressors",
+  "Submersible (Drainage) Pumps",
+  "Surface Pumps"
+ ],
+ "Infrared Heaters": [
+  "Thermostats",
+  "Surge Protectors & Extension Leads",
+  "Smart Plugs"
+ ],
+ "Ink & Toner Cartridges": [
+  "Printers",
+  "All-in-One Printers",
+  "Receipt & Label Printers",
+  "Copiers",
+  "Plotter Printers"
+ ],
+ "Instant Cameras": [
+  "Camera Bags",
+  "Tripods",
+  "Flashes and On-Camera Light",
+  "Batteries",
+  "Chargers for Gadgets"
+ ],
+ "Integrated Dishwashers": [
+  "Water Leak Detectors",
+  "Water Filters",
+  "Water Filter Cartridges"
+ ],
+ "Integrated Freezers": [
+  "Surge Protectors & Extension Leads",
+  "Voltage Monitoring Relays"
+ ],
+ "Integrated Fridges": [
+  "Water Filters",
+  "Water Filter Cartridges",
+  "Surge Protectors & Extension Leads",
+  "Voltage Monitoring Relays",
+  "Thermometers & Barometers"
+ ],
+ "Integrated Washing Machines": [
+  "Water Leak Detectors",
+  "Surge Protectors & Extension Leads",
+  "Drying Racks",
+  "Water Filters"
+ ],
+ "Intercoms": [
+  "Security Systems & Smart Hubs",
+  "Security Sensors",
+  "Surveillance Cameras"
+ ],
+ "Inverters & Controllers": [
+  "Solar Panels",
+  "Batteries for inverters & UPS",
+  "UPS"
+ ],
+ "Ironing Boards": [
+  "Irons",
+  "Clothes Steamers"
+ ],
+ "Irons": [
+  "Ironing Boards",
+  "Clothes Steamers",
+  "Water Filters",
+  "Water Filter Cartridges"
+ ],
+ "Jewellery Scales & Lab Balances": [],
+ "Juicers": [
+  "Food Containers",
+  "Thermoses",
+  "Water Bottles"
+ ],
+ "Keyboards": [
+  "Mice",
+  "Mouse Pads",
+  "Card Readers & USB Hubs",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Kids Bike Seats": [
+  "Bike Bags & Bottle Cages",
+  "Bike Lights",
+  "Bike Locks"
+ ],
+ "Kids Electric Ride-ons": [
+  "Chargers for Gadgets",
+  "Batteries"
+ ],
+ "Kids' Bikes": [
+  "Bike Bags & Bottle Cages",
+  "Bike Lights",
+  "Bike Locks",
+  "Bike Tyres"
+ ],
+ "Kitchen Knives": [
+  "Knife Sharpeners",
+  "Utensil Sets"
+ ],
+ "Kitchen Sinks": [
+  "Taps",
+  "Water Filters",
+  "Water Filter Cartridges"
+ ],
+ "Knife Sets": [
+  "Knife Sharpeners",
+  "Utensil Sets"
+ ],
+ "Knife Sharpeners": [
+  "Kitchen Knives",
+  "Knife Sets"
+ ],
+ "Knives & Multitools": [
+  "Knife Sharpeners",
+  "Tool boxes"
+ ],
+ "Ladders & Step Stool": [
+  "Tool boxes",
+  "Flashlights"
+ ],
+ "Laminators": [
+  "Scanners",
+  "Shredders"
+ ],
+ "Laptop Bags": [
+  "Laptops",
+  "Mice",
+  "Mouse Pads",
+  "Power banks"
+ ],
+ "Laptop Coolers": [
+  "Laptops",
+  "Card Readers & USB Hubs",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Laptops": [
+  "Laptop Bags",
+  "Mice",
+  "Mouse Pads",
+  "Laptop Coolers",
+  "USB Flash Drives",
+  "Hard Drives",
+  "Card Readers & USB Hubs",
+  "Headphones",
+  "Webcams",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Laser Measuring Tools": [
+  "Tripods",
+  "Batteries"
+ ],
+ "Laser Rangefinders": [
+  "Tripods",
+  "Batteries"
+ ],
+ "Lawn Mowers": [
+  "Engine Oils",
+  "Gas Canisters & Fuel",
+  "Batteries"
+ ],
+ "Lawn Scarifiers": [
+  "Engine Oils",
+  "Gas Canisters & Fuel",
+  "Batteries"
+ ],
+ "Leaf Blowers": [
+  "Batteries",
+  "Engine Oils",
+  "Gas Canisters & Fuel"
+ ],
+ "Lens Filters": [
+  "Camera Lenses",
+  "Tripods",
+  "Camera Bags",
+  "Flashes and On-Camera Light"
+ ],
+ "Light Bulbs": [
+  "Desk Lamps",
+  "Sockets",
+  "Switches",
+  "Socket & Switch Plates",
+  "Smart Plugs"
+ ],
+ "Lint Removers": [
+  "Irons",
+  "Ironing Boards",
+  "Clothes Steamers"
+ ],
+ "Log Splitters": [
+  "Axes",
+  "Wheelbarrows & Trolleys"
+ ],
+ "LTE/5G Modems": [
+  "Antennas for Routers",
+  "Wi-Fi Equipment",
+  "Routers & Firewalls",
+  "Powerline Adapters",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Luggage": [
+  "Travel Bags",
+  "Backpacks",
+  "Umbrellas"
+ ],
+ "Massage Chairs": [
+  "Surge Protectors & Extension Leads"
+ ],
+ "Massagers": [
+  "Batteries",
+  "Chargers for Gadgets",
+  "Electric Blankets & Heating Pads"
+ ],
+ "Mattresses": [],
+ "Meat Mincers": [
+  "Food Containers",
+  "Utensil Sets"
+ ],
+ "Media Players & Set-Top Boxes": [
+  "TVs",
+  "TV Mounts & Stands",
+  "Soundbars",
+  "Speakers",
+  "AV Receivers",
+  "Projectors",
+  "Projector Screens"
+ ],
+ "Medical Masks & Respirators": [],
+ "Memory Cards": [
+  "Digital Cameras",
+  "Action Cameras",
+  "Camcorders",
+  "Drones",
+  "Dashcams",
+  "Surveillance Cameras",
+  "Card Readers & USB Hubs"
+ ],
+ "Metal Detectors": [
+  "Headphones",
+  "Shovels",
+  "Batteries"
+ ],
+ "Mice": [
+  "Mouse Pads",
+  "Keyboards",
+  "Card Readers & USB Hubs"
+ ],
+ "Microphones": [
+  "Audio Interfaces",
+  "Holders & Stands",
+  "Headphones"
+ ],
+ "Microscopes": [
+  "Slides"
+ ],
+ "Microwaves": [
+  "Surge Protectors & Extension Leads",
+  "Food Containers"
+ ],
+ "MIDI Keyboards": [
+  "Audio Interfaces",
+  "Headphones",
+  "Laptops"
+ ],
+ "Mini Ovens": [
+  "Surge Protectors & Extension Leads",
+  "Pans",
+  "Food Containers"
+ ],
+ "Mixers & Blenders": [
+  "Utensil Sets",
+  "Food Containers",
+  "Pans",
+  "Stockpots"
+ ],
+ "Mobile Phone Cases": [
+  "Power banks",
+  "Chargers for Gadgets",
+  "Mobile Phone Headsets",
+  "Holders & Stands",
+  "Selfie Sticks",
+  "Memory Cards",
+  "Tripods"
+ ],
+ "Mobile Phone Headsets": [
+  "Mobile Phones",
+  "Mobile Phone Cases",
+  "Chargers for Gadgets",
+  "Power banks",
+  "MP3 Players"
+ ],
+ "Mobile Phones": [
+  "Mobile Phone Cases",
+  "Chargers for Gadgets",
+  "Power banks",
+  "Memory Cards",
+  "Holders & Stands",
+  "Mobile Phone Headsets",
+  "Selfie Sticks",
+  "Tripods",
+  "Stylus Pens",
+  "Card Readers & USB Hubs",
+  "USB Flash Drives",
+  "VR Headsets",
+  "Portable Speakers"
+ ],
+ "Model Building Kits": [
+  "Knives & Multitools",
+  "Knife Sets",
+  "Glue Guns",
+  "Desk Lamps",
+  "Soldering Tools",
+  "Pencils"
+ ],
+ "Money Counting Machines": [
+  "Counterfeit Detectors",
+  "Safes",
+  "Shredders",
+  "UPS"
+ ],
+ "Monitors": [
+  "Desktop PCs",
+  "Laptops",
+  "Notebooks",
+  "PC Speakers",
+  "Webcams",
+  "Microphones",
+  "Headphones",
+  "Surge Protectors & Extension Leads",
+  "Graphics Cards",
+  "Holders & Stands",
+  "TV Mounts & Stands"
+ ],
+ "Motherboards": [
+  "CPUs",
+  "RAM",
+  "PSUs",
+  "Computer Cases",
+  "Computer Cooling",
+  "SSD",
+  "Hard Drives",
+  "Graphics Cards",
+  "Thermal Pastes & Thermal Pads",
+  "PCI Controller Cards"
+ ],
+ "Motorcycle Helmets": [
+  "Intercoms",
+  "Action Cameras"
+ ],
+ "Motorcycle Tyres": [
+  "Air Compressors",
+  "Car Pumps & Compressors",
+  "Wheels"
+ ],
+ "Mouse Pads": [
+  "Mice",
+  "Keyboards"
+ ],
+ "MP3 Players": [
+  "Headphones",
+  "Portable Speakers",
+  "Memory Cards",
+  "USB Flash Drives",
+  "Chargers for Gadgets",
+  "Power banks",
+  "FM Transmitters"
+ ],
+ "Multi Cookers": [
+  "Food Containers",
+  "Utensil Sets",
+  "Thermoses"
+ ],
+ "Multi Power Tools": [
+  "Bits & Sockets Sets",
+  "Tool boxes",
+  "Battery Chargers",
+  "Batteries",
+  "Vises & Clamps",
+  "Ladders & Step Stool"
+ ],
+ "Multicookers & Air fryers": [
+  "Food Containers",
+  "Utensil Sets"
+ ],
+ "Multimeters": [
+  "Soldering Tools",
+  "Batteries"
+ ],
+ "Nail Care Kits": [
+  "Nail Lamps",
+  "Sterilizers & Heaters"
+ ],
+ "Nail Lamps": [
+  "Nail Care Kits",
+  "Sterilizers & Heaters"
+ ],
+ "Nappies": [
+  "Baby Bottles & Sippy Cups",
+  "Bottle Teats & Pacifiers",
+  "Changing Tables",
+  "Baby Monitors",
+  "Sterilizers & Heaters"
+ ],
+ "NAS Servers": [
+  "Hard Drives",
+  "SSD",
+  "UPS",
+  "Routers & Firewalls",
+  "Switches",
+  "Wi-Fi Equipment"
+ ],
+ "Nebulisers": [
+  "Medical Masks & Respirators",
+  "Clinical Thermometers"
+ ],
+ "Nitrate Testers": [
+  "Aquariums",
+  "Aquarium Filters",
+  "Aquarium Air Pumps"
+ ],
+ "Notebooks": [
+  "Laptop Bags",
+  "Laptop Coolers",
+  "Mice",
+  "Keyboards",
+  "Webcams",
+  "Microphones",
+  "Headphones",
+  "SSD",
+  "Hard Drives",
+  "USB Flash Drives",
+  "Memory Cards",
+  "Card Readers & USB Hubs",
+  "Surge Protectors & Extension Leads",
+  "Monitors",
+  "PC Speakers"
+ ],
+ "NVDs and Thermal Imagers": [
+  "Tripods",
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "Office Desks": [
+  "Computer Chairs",
+  "Monitors",
+  "Desktop PCs",
+  "Holders & Stands",
+  "Desk Lamps",
+  "Surge Protectors & Extension Leads",
+  "Mouse Pads",
+  "Mice",
+  "Keyboards"
+ ],
+ "Oil Radiators": [
+  "Thermostats",
+  "Smart Plugs",
+  "Surge Protectors & Extension Leads",
+  "Humidifiers",
+  "Fans"
+ ],
+ "Optical Drives": [
+  "Drive Cases & Docks",
+  "Desktop PCs",
+  "Laptops",
+  "PCI Controller Cards"
+ ],
+ "Outdoor Furniture": [
+  "Umbrellas",
+  "Patio Heaters",
+  "BBQ & Grills",
+  "Hammocks",
+  "Cooler Bags",
+  "Picnic Sets"
+ ],
+ "Ovens": [
+  "Hobs",
+  "Cooker Hoods",
+  "Pans",
+  "Stockpots"
+ ],
+ "Over Door Heaters": [
+  "Thermostats",
+  "Smart Plugs",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Paddleboards": [
+  "Air Compressors",
+  "Cooler Bags",
+  "Backpacks",
+  "Action Cameras",
+  "Water Bottles"
+ ],
+ "Paint Sprayers": [
+  "Air Compressors",
+  "Medical Masks & Respirators",
+  "Ladders & Step Stool"
+ ],
+ "Pancake Makers": [
+  "Utensil Sets",
+  "Mixers & Blenders",
+  "Food Containers"
+ ],
+ "Pans": [
+  "Hobs",
+  "Ovens",
+  "Utensil Sets"
+ ],
+ "Parking Sensors": [
+  "Reversing Cameras",
+  "Car Monitors",
+  "Car Stereos"
+ ],
+ "Patio Heaters": [
+  "Outdoor Furniture",
+  "Umbrellas",
+  "Gas Canisters & Fuel"
+ ],
+ "PC Speakers": [
+  "Desktop PCs",
+  "Laptops",
+  "Sound Cards",
+  "DACs",
+  "Surge Protectors & Extension Leads"
+ ],
+ "PCI Controller Cards": [
+  "Desktop PCs",
+  "Motherboards",
+  "Hard Drives",
+  "SSD",
+  "Optical Drives"
+ ],
+ "Pedal Cars": [
+  "Playgrounds",
+  "Swings & Rocking Chairs",
+  "Slides"
+ ],
+ "Pencils": [
+  "Pens",
+  "Plannerss",
+  "Notebooks",
+  "School Bags"
+ ],
+ "Pens": [
+  "Notebooks",
+  "Plannerss"
+ ],
+ "Phono Stages": [
+  "Turntables",
+  "Amplifiers",
+  "Speakers",
+  "Hi-Fi Racks & Mounts"
+ ],
+ "Picnic Sets": [
+  "Cooler Bags",
+  "Water Bottles",
+  "Thermoses",
+  "Food Containers",
+  "Camping Mats"
+ ],
+ "Plannerss": [
+  "Pens",
+  "Notebooks"
+ ],
+ "Plaster Mixers": [
+  "Tool boxes",
+  "Ladders & Step Stool",
+  "Generators"
+ ],
+ "Plate Compactors": [
+  "Generators",
+  "Wheelbarrows & Trolleys",
+  "Engine Oils",
+  "Cement Mixers"
+ ],
+ "Playgrounds": [
+  "Slides",
+  "Swings & Rocking Chairs",
+  "Trampolines"
+ ],
+ "Playpens": [
+  "Baby Monitors",
+  "Baby Bottles & Sippy Cups",
+  "Nappies",
+  "Changing Tables",
+  "Baby Swings & Chair Bouncers"
+ ],
+ "Plotter Printers": [
+  "Ink & Toner Cartridges",
+  "Laminators",
+  "Scanners"
+ ],
+ "Portable Infrared & Finnish Saunas": [
+  "Massagers",
+  "Foot Baths",
+  "Clinical Thermometers",
+  "Electric Blankets & Heating Pads"
+ ],
+ "Portable Power Stations": [
+  "Solar Panels",
+  "Inverters & Controllers",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Portable Recorders": [
+  "Microphones",
+  "Headphones",
+  "Memory Cards",
+  "Tripods",
+  "Camera Bags"
+ ],
+ "Portable Speakers": [
+  "Power banks",
+  "Chargers for Gadgets"
+ ],
+ "Power banks": [
+  "Chargers for Gadgets",
+  "Solar Panels"
+ ],
+ "Power Saws": [
+  "Vises & Clamps",
+  "Tool boxes",
+  "Generators"
+ ],
+ "Power Shears & Nibblers": [
+  "Tool boxes",
+  "Vises & Clamps",
+  "Generators"
+ ],
+ "Power Tool Combo Kits": [
+  "Batteries",
+  "Battery Chargers",
+  "Tool boxes"
+ ],
+ "Powerline Adapters": [
+  "Routers & Firewalls",
+  "Wi-Fi Equipment",
+  "Switches",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Pressure Tank Units": [
+  "Surface Pumps",
+  "Deep Well Pumps",
+  "Submersible (Drainage) Pumps",
+  "Water Filters"
+ ],
+ "Pressure Washers": [
+  "Generators",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Printers": [
+  "Ink & Toner Cartridges",
+  "Scanners",
+  "Laminators",
+  "Shredders"
+ ],
+ "Projector Mounts": [
+  "Projectors",
+  "Projector Screens"
+ ],
+ "Projector Screens": [
+  "Projectors",
+  "Projector Mounts"
+ ],
+ "Projectors": [
+  "Projector Mounts",
+  "Projector Screens",
+  "Media Players & Set-Top Boxes",
+  "Speakers"
+ ],
+ "Proteins": [
+  "Amino Acids",
+  "Creatine",
+  "Fat Burners"
+ ],
+ "PSUs": [
+  "Surge Protectors & Extension Leads",
+  "Computer Cases"
+ ],
+ "Pull-Up Bars & Parallel Bars": [
+  "Wall Bars (Swedish Ladders)",
+  "Heart Rate Monitors & Pedometers",
+  "Massagers",
+  "Weight Benches & Racks"
+ ],
+ "Pushchairs": [
+  "Car Seats",
+  "Baby Carriers",
+  "Nappies",
+  "Baby Bottles & Sippy Cups"
+ ],
+ "Pyrometers": [
+  "Tripods",
+  "Batteries"
+ ],
+ "Radar Detectors": [
+  "Dashcams",
+  "Chargers for Gadgets",
+  "Car Inverters"
+ ],
+ "Radiators": [
+  "Thermostats",
+  "Circulation Pumps",
+  "Boilers",
+  "Hot Water Storage Tanks"
+ ],
+ "Radios & Table Clocks": [
+  "Batteries",
+  "Chargers for Gadgets"
+ ],
+ "RAM": [
+  "Motherboards",
+  "CPUs",
+  "SSD"
+ ],
+ "RC Aircrafts": [
+  "Remote controls for drones and RC models",
+  "Batteries",
+  "Battery Chargers",
+  "Action Cameras"
+ ],
+ "RC Boats": [
+  "Remote controls for drones and RC models",
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "RC Cars": [
+  "Remote controls for drones and RC models",
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "RC Helicopters": [
+  "Remote controls for drones and RC models",
+  "Batteries",
+  "Battery Chargers",
+  "Action Cameras"
+ ],
+ "RC Tanks": [
+  "Remote controls for drones and RC models",
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "Receipt & Label Printers": [
+  "Ink & Toner Cartridges",
+  "Scanners"
+ ],
+ "Recuperators & Ventilation Recovery": [
+  "Humidifiers",
+  "Dehumidifiers",
+  "Thermostats",
+  "Fans"
+ ],
+ "Reels": [
+  "Rods",
+  "Fish Finders",
+  "Inflatable Boats"
+ ],
+ "Remote controls for drones and RC models": [
+  "Drones",
+  "RC Cars",
+  "RC Boats",
+  "RC Helicopters",
+  "RC Aircrafts",
+  "RC Tanks",
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "Reversing Cameras": [
+  "Car Monitors",
+  "Parking Sensors"
+ ],
+ "Ride-On Cars": [
+  "Batteries",
+  "Battery Chargers"
+ ],
+ "Rods": [
+  "Reels",
+  "Fish Finders",
+  "Inflatable Boats"
+ ],
+ "Roller Skates": [],
+ "Roof Boxes & Racks": [
+  "Luggage",
+  "Travel Bags"
+ ],
+ "Rotary Hammers": [
+  "Bits & Sockets Sets",
+  "Tool boxes",
+  "Tool Kits"
+ ],
+ "Routers & Firewalls": [
+  "Wi-Fi Equipment",
+  "Antennas for Routers",
+  "Powerline Adapters",
+  "Switches",
+  "LTE/5G Modems",
+  "UPS"
+ ],
+ "Routers & Trimmers": [
+  "Bits & Sockets Sets",
+  "Vises & Clamps",
+  "Tool boxes"
+ ],
+ "Rowing Machines": [
+  "Heart Rate Monitors & Pedometers",
+  "Water Bottles",
+  "Smartwatches & Trackers"
+ ],
+ "Safes": [
+  "Security Systems & Smart Hubs",
+  "Security Sensors"
+ ],
+ "Sat Navs": [
+  "Chargers for Gadgets",
+  "Holders & Stands",
+  "Memory Cards"
+ ],
+ "Saws": [
+  "Vises & Clamps",
+  "Tool boxes"
+ ],
+ "Scales": [
+  "Batteries"
+ ],
+ "Scanners": [
+  "Laptops",
+  "Desktop PCs",
+  "USB Flash Drives",
+  "Card Readers & USB Hubs",
+  "Laminators"
+ ],
+ "School Bags": [
+  "Pens",
+  "Pencils",
+  "Plannerss",
+  "Notebooks",
+  "Food Containers",
+  "Water Bottles"
+ ],
+ "Scooters": [
+  "Bike Lights",
+  "Bike Locks"
+ ],
+ "Seat Heaters": [],
+ "Security Sensors": [
+  "Security Systems & Smart Hubs",
+  "Alarm Horns & Sirens",
+  "Surveillance Cameras"
+ ],
+ "Security Systems & Smart Hubs": [
+  "Security Sensors",
+  "Surveillance Cameras",
+  "Alarm Horns & Sirens",
+  "Smart Plugs",
+  "DVR & NVR Recorders"
+ ],
+ "Selfie Sticks": [
+  "Mobile Phones",
+  "Action Cameras",
+  "Power banks"
+ ],
+ "Sewing Machines & Overlockers": [
+  "Irons",
+  "Ironing Boards"
+ ],
+ "Shavers": [],
+ "Shooting Earmuffs and Earplugs": [
+  "Air Rifles",
+  "Air Pistols",
+  "Flobert Guns & Starting Pistols",
+  "Sights",
+  "Ammunition"
+ ],
+ "Shop Scales": [
+  "Receipt & Label Printers",
+  "Scanners",
+  "Counterfeit Detectors"
+ ],
+ "Shovels": [
+  "Wheelbarrows & Trolleys"
+ ],
+ "Shower Enclosures": [
+  "Shower Trays",
+  "Shower Systems"
+ ],
+ "Shower Screens & Walls": [
+  "Shower Trays",
+  "Shower Systems"
+ ],
+ "Shower Systems": [
+  "Shower Enclosures",
+  "Shower Screens & Walls",
+  "Water Heaters"
+ ],
+ "Shower Trays": [
+  "Shower Enclosures",
+  "Shower Screens & Walls"
+ ],
+ "Shredders": [
+  "Laminators",
+  "Office Desks",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Sights": [
+  "Air Rifles",
+  "Air Pistols",
+  "Flobert Guns & Starting Pistols",
+  "Shooting Earmuffs and Earplugs",
+  "Ammunition"
+ ],
+ "Skateboards": [],
+ "Ski Helmets": [
+  "Skis",
+  "Snowboards",
+  "Sledges"
+ ],
+ "Skis": [
+  "Ski Helmets"
+ ],
+ "Sledges": [
+  "Ski Helmets"
+ ],
+ "Sleeping Bags": [
+  "Tents",
+  "Inflatable Mattresses",
+  "Camping Mats",
+  "Hammocks"
+ ],
+ "Slides": [
+  "Playgrounds",
+  "Swings & Rocking Chairs"
+ ],
+ "Smart Plugs": [
+  "Security Systems & Smart Hubs",
+  "Wi-Fi Equipment",
+  "Surge Protectors & Extension Leads",
+  "Thermostats"
+ ],
+ "Smart Rings": [
+  "Chargers for Gadgets",
+  "Power banks"
+ ],
+ "Smartwatches & Trackers": [
+  "Chargers for Gadgets",
+  "Power banks",
+  "Headphones"
+ ],
+ "Snips": [
+  "Tool boxes",
+  "Vises & Clamps",
+  "Ladders & Step Stool"
+ ],
+ "Snow Blowers": [
+  "Engine Oils",
+  "Gas Canisters & Fuel",
+  "Surge Protectors & Extension Leads",
+  "Shovels"
+ ],
+ "Snowboards": [
+  "Ski Helmets",
+  "Backpacks",
+  "Travel Bags",
+  "Action Cameras"
+ ],
+ "Socket & Switch Plates": [
+  "Sockets",
+  "Household Switches",
+  "Switches"
+ ],
+ "Sockets": [
+  "Socket & Switch Plates",
+  "Household Switches",
+  "Switches",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Solar Collectors": [
+  "Hot Water Storage Tanks",
+  "Circulation Pumps",
+  "Water Heaters",
+  "Inverters & Controllers"
+ ],
+ "Solar Panels": [
+  "Inverters & Controllers",
+  "Batteries for inverters & UPS",
+  "Portable Power Stations",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Soldering Tools": [
+  "Multimeters",
+  "Heat Guns",
+  "Vises & Clamps",
+  "Tool boxes"
+ ],
+ "Sound Cards": [
+  "Headphones",
+  "Microphones",
+  "PC Speakers",
+  "Headphone Amplifiers"
+ ],
+ "Soundbars": [
+  "TVs",
+  "TV Mounts & Stands",
+  "Subwoofers",
+  "Projectors",
+  "Projector Screens",
+  "Hi-Fi Racks & Mounts",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Speakers": [
+  "Amplifiers",
+  "AV Receivers",
+  "Subwoofers",
+  "Hi-Fi Racks & Mounts"
+ ],
+ "Spirit Levels & Angle Measurers": [
+  "Laser Measuring Tools",
+  "Tripods",
+  "Tool boxes",
+  "Ladders & Step Stool"
+ ],
+ "Spotting Scopes": [
+  "Tripods",
+  "Backpacks"
+ ],
+ "Spray Guns": [
+  "Air Compressors",
+  "Tool boxes"
+ ],
+ "Squash Racquets": [
+  "Backpacks",
+  "Water Bottles",
+  "Smartwatches & Trackers",
+  "Travel Bags"
+ ],
+ "SSD": [
+  "Drive Cases & Docks",
+  "Desktop PCs",
+  "Laptops",
+  "NAS Servers",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Staple Guns & Nailers": [
+  "Air Compressors",
+  "Tool boxes",
+  "Ladders & Step Stool",
+  "Vises & Clamps"
+ ],
+ "Steadicams (Hand Stabilisers)": [
+  "Digital Cameras",
+  "Action Cameras",
+  "Tripods",
+  "Camera Bags",
+  "Camera Batteries"
+ ],
+ "Steam Cleaners": [
+  "Vacuum Cleaners",
+  "Cleaning Machines",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Steppers": [
+  "Heart Rate Monitors & Pedometers",
+  "Smartwatches & Trackers",
+  "Exercise & Medicine Balls"
+ ],
+ "Sterilizers & Heaters": [
+  "Baby Bottles & Sippy Cups",
+  "Bottle Teats & Pacifiers",
+  "Baby Food",
+  "Breast Pumps"
+ ],
+ "Stockpots": [
+  "Pans",
+  "Utensil Sets",
+  "Kitchen Knives",
+  "Hobs",
+  "Cookers"
+ ],
+ "Strength Training Machines": [
+  "Weight Benches & Racks",
+  "Pull-Up Bars & Parallel Bars",
+  "Exercise & Medicine Balls",
+  "Heart Rate Monitors & Pedometers"
+ ],
+ "Strings": [
+  "Acoustic Guitars",
+  "Electric & Bass Guitars",
+  "Guitar Amps & Cabs"
+ ],
+ "Stylus Pens": [
+  "Tablets",
+  "Tablet Cases",
+  "E-Readers",
+  "Notebooks"
+ ],
+ "Submersible (Drainage) Pumps": [
+  "Surge Protectors & Extension Leads",
+  "Generators",
+  "Water Leak Detectors"
+ ],
+ "Subwoofers": [
+  "AV Receivers",
+  "Amplifiers",
+  "Speakers",
+  "Soundbars",
+  "Hi-Fi Racks & Mounts"
+ ],
+ "Surface Pumps": [
+  "Pressure Tank Units",
+  "Water Pressure Tanks",
+  "Generators",
+  "Water Filters"
+ ],
+ "Surge Protectors & Extension Leads": [
+  "Chargers for Gadgets",
+  "Desktop PCs",
+  "Laptops",
+  "TVs",
+  "Gaming Consoles",
+  "Routers & Firewalls"
+ ],
+ "Surveillance Cameras": [
+  "DVR & NVR Recorders",
+  "Hard Drives",
+  "Memory Cards",
+  "Switches",
+  "Security Systems & Smart Hubs",
+  "Powerline Adapters"
+ ],
+ "Surveillance DVR Kits": [
+  "Hard Drives",
+  "Surveillance Cameras",
+  "Monitors",
+  "Switches",
+  "Powerline Adapters"
+ ],
+ "Swings & Rocking Chairs": [
+  "Baby Monitors",
+  "Nappies",
+  "Playpens",
+  "Dolls"
+ ],
+ "Switches": [
+  "Routers & Firewalls",
+  "Wi-Fi Equipment",
+  "LTE/5G Modems",
+  "Powerline Adapters",
+  "NAS Servers",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Synthesizers": [
+  "MIDI Keyboards",
+  "Audio Interfaces",
+  "Headphones",
+  "Speakers"
+ ],
+ "Table Tennis Bats": [
+  "Table Tennis Tables",
+  "Backpacks",
+  "Water Bottles"
+ ],
+ "Table Tennis Tables": [
+  "Table Tennis Bats",
+  "Backpacks",
+  "Chairs",
+  "Water Bottles"
+ ],
+ "Tablet Cases": [
+  "Tablets",
+  "Stylus Pens"
+ ],
+ "Tablets": [
+  "Tablet Cases",
+  "Stylus Pens",
+  "Chargers for Gadgets",
+  "Power banks",
+  "Memory Cards",
+  "Card Readers & USB Hubs",
+  "Keyboards",
+  "Laptop Bags",
+  "Game Controllers",
+  "Headphones"
+ ],
+ "Taps": [
+  "Bathroom Sinks",
+  "Kitchen Sinks",
+  "Washbasin cabinet"
+ ],
+ "Telescopes": [
+  "Tripods"
+ ],
+ "Tennis Rackets": [],
+ "Tents": [
+  "Sleeping Bags",
+  "Camping Mats",
+  "Camping Stoves",
+  "Inflatable Mattresses",
+  "Inflatable Furniture",
+  "Cooler Bags",
+  "Picnic Sets",
+  "Hammocks"
+ ],
+ "Terrines": [
+  "Pans",
+  "Stockpots",
+  "Utensil Sets",
+  "Kitchen Knives",
+  "Knife Sets",
+  "Food Containers"
+ ],
+ "Thermal Pastes & Thermal Pads": [
+  "CPUs",
+  "Computer Cooling",
+  "Graphics Cards",
+  "Motherboards"
+ ],
+ "Thermometers & Barometers": [
+  "Weather Stations"
+ ],
+ "Thermoses": [
+  "Picnic Sets",
+  "Cooler Bags",
+  "Food Containers"
+ ],
+ "Thermostats": [
+  "Boilers",
+  "Heat Pumps",
+  "Radiators",
+  "Convector Heaters",
+  "Oil Radiators",
+  "Infrared Heaters",
+  "Gas heaters"
+ ],
+ "Tile Cutters": [
+  "Spirit Levels & Angle Measurers",
+  "Laser Measuring Tools",
+  "Vises & Clamps",
+  "Tool boxes",
+  "Tool Kits",
+  "Grinders & Polishers"
+ ],
+ "Toasters & Waffle Makers": [
+  "Electric Kettles",
+  "Coffee Makers & Coffee Machines",
+  "Coffee Grinders",
+  "Breadmakers"
+ ],
+ "Toilets": [
+  "Concealed Frames & Cisterns"
+ ],
+ "Tool boxes": [
+  "Tool Kits",
+  "Bits & Sockets Sets"
+ ],
+ "Tool Kits": [
+  "Tool boxes",
+  "Bits & Sockets Sets",
+  "Vises & Clamps",
+  "Spirit Levels & Angle Measurers",
+  "Ladders & Step Stool"
+ ],
+ "Toothbrush Heads": [
+  "Electric Toothbrushes"
+ ],
+ "Trampolines": [
+  "Playgrounds",
+  "Slides"
+ ],
+ "Travel Bags": [
+  "Luggage",
+  "Backpacks",
+  "Umbrellas",
+  "Water Bottles",
+  "Power banks"
+ ],
+ "Treadmills": [
+  "Heart Rate Monitors & Pedometers",
+  "Exercise & Medicine Balls"
+ ],
+ "Tripods": [
+  "Digital Cameras",
+  "Camcorders",
+  "Telescopes",
+  "Spotting Scopes"
+ ],
+ "Truck Tyres": [
+  "Wheels",
+  "Car Pumps & Compressors"
+ ],
+ "Tumble Dryers": [
+  "Washing Machines",
+  "Ironing Boards",
+  "Irons"
+ ],
+ "Turntables": [
+  "Phono Stages",
+  "Amplifiers",
+  "Speakers",
+  "Headphones",
+  "Hi-Fi Racks & Mounts"
+ ],
+ "TV Antennas": [
+  "TVs",
+  "TV Mounts & Stands",
+  "Media Players & Set-Top Boxes"
+ ],
+ "TV Mounts & Stands": [
+  "TVs",
+  "TV Antennas"
+ ],
+ "TVs": [
+  "TV Mounts & Stands",
+  "Media Players & Set-Top Boxes",
+  "Soundbars",
+  "Gaming Consoles",
+  "Surge Protectors & Extension Leads",
+  "TV Antennas"
+ ],
+ "Two-wheel tractors & Cultivators": [
+  "Gas Canisters & Fuel",
+  "Wheelbarrows & Trolleys"
+ ],
+ "Tyres": [
+  "Wheels",
+  "Car Pumps & Compressors"
+ ],
+ "Umbrellas": [
+  "Travel Bags",
+  "Backpacks"
+ ],
+ "UPS": [
+  "Batteries for inverters & UPS",
+  "Surge Protectors & Extension Leads",
+  "Desktop PCs",
+  "NAS Servers"
+ ],
+ "Urinals": [
+  "Concealed Frames & Cisterns"
+ ],
+ "USB Flash Drives": [
+  "Laptops",
+  "Desktop PCs",
+  "Card Readers & USB Hubs"
+ ],
+ "Utensil Sets": [
+  "Pans",
+  "Stockpots",
+  "Kitchen Knives",
+  "Knife Sets"
+ ],
+ "Vacuum Cleaners": [
+  "Steam Cleaners",
+  "Cleaning Machines"
+ ],
+ "Vacuum Sealers": [
+  "Food Dehydrators",
+  "Freezers",
+  "Food Containers"
+ ],
+ "Vibration Trainers": [
+  "Exercise & Medicine Balls",
+  "Heart Rate Monitors & Pedometers"
+ ],
+ "Vises & Clamps": [
+  "Drills & Screwdrivers",
+  "Grinders & Polishers",
+  "Saws",
+  "Electric Jigsaws",
+  "Electric Planers",
+  "Bench Grinders & Polishers"
+ ],
+ "VoIP Phones": [
+  "Routers & Firewalls",
+  "Switches",
+  "Wi-Fi Equipment",
+  "Headphones",
+  "Mobile Phone Headsets"
+ ],
+ "Voltage Monitoring Relays": [
+  "Inverters & Controllers",
+  "Household Switches",
+  "Sockets",
+  "Surge Protectors & Extension Leads"
+ ],
+ "VR Headsets": [
+  "Gaming Consoles",
+  "Desktop PCs",
+  "Laptops",
+  "Game Controllers"
+ ],
+ "Walkie Talkies": [
+  "Batteries",
+  "Battery Chargers",
+  "Chargers for Gadgets"
+ ],
+ "Wall Bars (Swedish Ladders)": [
+  "Pull-Up Bars & Parallel Bars",
+  "Exercise & Medicine Balls"
+ ],
+ "Wall Chasers & Floor Saws": [
+  "Wire Detectors",
+  "Laser Measuring Tools",
+  "Spirit Levels & Angle Measurers",
+  "Vises & Clamps",
+  "Tool boxes",
+  "Tool Kits"
+ ],
+ "Washbasin cabinet": [
+  "Bathroom Sinks",
+  "Taps"
+ ],
+ "Washing Machines": [
+  "Tumble Dryers",
+  "Drying Racks",
+  "Irons",
+  "Ironing Boards",
+  "Surge Protectors & Extension Leads",
+  "Water Leak Detectors"
+ ],
+ "Water Bottles": [
+  "Thermoses",
+  "Food Containers",
+  "Cooler Bags",
+  "Backpacks",
+  "Bike Bags & Bottle Cages"
+ ],
+ "Water Coolers": [
+  "Water Filter Cartridges",
+  "Water Filters",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Water Filter Cartridges": [
+  "Water Filters"
+ ],
+ "Water Filters": [
+  "Water Filter Cartridges",
+  "Water Leak Detectors"
+ ],
+ "Water Heaters": [
+  "Thermostats",
+  "Water Leak Detectors",
+  "Hot Water Storage Tanks",
+  "Circulation Pumps",
+  "Surge Protectors & Extension Leads",
+  "Taps"
+ ],
+ "Water Leak Detectors": [
+  "Security Systems & Smart Hubs",
+  "Smart Plugs",
+  "Wi-Fi Equipment"
+ ],
+ "Water Metres": [
+  "Water Leak Detectors"
+ ],
+ "Water Pressure Tanks": [
+  "Pressure Tank Units",
+  "Surface Pumps",
+  "Deep Well Pumps",
+  "Submersible (Drainage) Pumps",
+  "Water Metres"
+ ],
+ "Water Pumps with Engine": [
+  "Water Pressure Tanks",
+  "Water Metres",
+  "Water Filters",
+  "Gas Canisters & Fuel"
+ ],
+ "Weather Stations": [
+  "Thermometers & Barometers",
+  "Wi-Fi Equipment",
+  "Batteries"
+ ],
+ "Webcams": [
+  "Microphones",
+  "Headphones",
+  "Tripods",
+  "Card Readers & USB Hubs"
+ ],
+ "Weight Benches & Racks": [
+  "Pull-Up Bars & Parallel Bars",
+  "Exercise & Medicine Balls",
+  "Wall Bars (Swedish Ladders)"
+ ],
+ "Weight Gainers": [
+  "Proteins",
+  "Amino Acids",
+  "Creatine"
+ ],
+ "Welders": [
+  "Welding Helmets",
+  "Generators",
+  "Tool boxes"
+ ],
+ "Welding Helmets": [
+  "Welders"
+ ],
+ "Wheelbarrows & Trolleys": [
+  "Shovels",
+  "Ladders & Step Stool",
+  "Wheels"
+ ],
+ "Wheels": [
+  "Tyres",
+  "Truck Tyres",
+  "Bike Tyres",
+  "Wheelbarrows & Trolleys"
+ ],
+ "Wi-Fi Equipment": [
+  "LTE/5G Modems",
+  "Antennas for Routers",
+  "Powerline Adapters",
+  "Switches",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Windscreen Wipers": [
+  "Car Bulbs",
+  "Dashcams"
+ ],
+ "Wine Coolers": [
+  "Thermometers & Barometers",
+  "Surge Protectors & Extension Leads"
+ ],
+ "Wire Detectors": [
+  "Laser Measuring Tools",
+  "Spirit Levels & Angle Measurers",
+  "Wall Chasers & Floor Saws",
+  "Drills & Screwdrivers"
+ ],
+ "Wrist Watches": [
+  "Batteries"
+ ],
+ "Yoghurt / Ice Cream Makers": [
+  "Mixers & Blenders",
+  "Food Containers"
+ ]
+}
